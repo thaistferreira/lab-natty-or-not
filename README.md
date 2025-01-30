@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como combinar cores ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aprenda a usar as cores a seu favor!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisas de cores que se complementam e fotos de exemplos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Agora sim, voce pode combinar cores sem medo de ser feliz!
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
